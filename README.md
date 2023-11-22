@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **fvr.marius@gmail.com**
 
-<h3 align="left">Connect with me:fvr.marius@gmail.com </h3>
+<h3 align="left">Connect with me: fvr.marius@gmail.com </h3>
 <p align="left">
 <a href="https://dev.to/jannisrfst" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="jannisrfst" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/www.linkedin.com/in/ jannis-reufsteck-6a959b278" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/ jannis-reufsteck-6a959b278" height="30" width="40" /></a>
