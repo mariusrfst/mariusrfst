@@ -3,7 +3,7 @@
 
 - ⚡ Causing headaches **Since 2023**
 
-- 🌱 I’m currently learning **Basic C++**
+- 🌱 I’m currently learning **Frontend Development+**
 
 - 📫 How to reach me **fvr.marius@gmail.com**
 
