@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Marius</h1>
-<h3 align="center">A passionate young learning Developer from Germany</h3>
+<h3 align="center">A passionate young Developer from Germany</h3>
 
 - ⚡ Causing headaches **Since 2023**
 
-- 🌱 I’m currently learning **Frontend Development+**
+- 🌱 I am currently working on **Frontend Development+**
 
 - 📫 How to reach me **fvr.marius@gmail.com**
 
